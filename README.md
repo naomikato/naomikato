@@ -2,7 +2,7 @@
 
 **Director of Bioinformatics at Lael Corp**
 
-![Profile Image](aesthetic.gif)
+<img src="aesthetic.gif" alt="Profile Image" width="100%">
 
 👋 Welcome to my GitHub profile! I'm Naomi Kato, and I'm passionate about decoding life's mysteries through data and code. With a background in computational biology and expertise in bioinformatics, I'm dedicated to advancing biological research and fostering innovation at the intersection of genomics and computation.
 
